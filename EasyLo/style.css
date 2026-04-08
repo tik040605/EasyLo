@@ -1,0 +1,374 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:url(./img/h1_hero1.jpg.webp);
+    background-repeat: no-repeat;
+
+}
+header{
+    width: 100%;
+    height: 85px;
+    background-color: #26BE9FFF;
+}   
+ul{
+    justify-content: center;
+    margin-left: 730px;
+    
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    font-family: "Inter",sans-serif;
+    font-weight: 550;
+    font-size: 17px;
+    padding-left: 32px;
+    margin-top: 34px;
+}
+li:hover{
+    cursor: pointer;
+    color: #0F4332;
+    transition: 0.3s;
+}
+.d1{
+    margin-top: -52px;
+    margin-left: 107px;
+}
+.button {
+    border: none;
+    background-color: #10C98FFF;
+    color: white;   
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: -102px;
+    margin-left: 33px;
+    cursor: pointer;
+}
+.button:hover{
+    border: 1px solid white;
+    background-color: #00a669;
+    transition: 0.6s;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+}
+.p1{
+    font-size: 65px;
+    font-family: "Inter",sans-serif;
+    font-weight: 700;
+    color: #fff;
+    margin-left: 215px;
+    margin-top: 80px;
+}
+hr{
+    border: 2.7px solid;
+    width: 6.8%;
+    margin-left: 219px;
+    margin-top: 13px;
+    color:#fff; 
+}
+.p2{
+    font-family: "Chivo",sans-serif;
+    font-size: 27.5px;
+    margin-left: 219px;
+    margin-top: 22px;
+    color: #fff    
+}
+.button1{
+    border: 2px solid #ffffff;
+    display: inline-block;
+    padding: 17px 45px;
+    text-transform: uppercase;
+    font-size: 16px;
+    background: none;
+    font-weight: 600;
+    color: #fff;
+    margin-left: 219px;
+    margin-top: 20px;
+}
+.button1:hover{
+     cursor: pointer;
+     background-color: #10C98F;
+     transition: 0.3s;
+     border: 2px solid #10C98F;
+}
+.d2{
+    width: 415px;
+    height: 520px;
+    background-color: #ffffff;
+    margin-left: 1140px;
+    margin-top: -380px;
+}
+h2{
+    font-family:"Inter",sans-serif;
+    color: #0F4332;
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 48px;
+    padding-top:45px ;
+}
+.p3{
+    font-family:"Chivo",sans-serif;
+    color: #3F4854;
+    padding-left: 89px;
+    padding-top: 8px;
+    font-size: 13px;
+    font-weight: 550;
+}
+.hr1{
+    width: 7%;
+    color: #10C98F;
+    margin-left: 1133px;
+    margin-top: -400px;
+}
+.p4{
+    font-family:"Chivo",sans-serif;
+    opacity: 0.8;
+    color: #3F4854;
+    font-size: 12px;
+    font-weight:550;
+    text-transform: uppercase;
+    padding-left: 38px;
+    padding-top: 50px;
+}
+.button2{
+    padding: 13px 113px;
+    background: none; 
+    border-style: groove;
+    margin-left: 38px;
+    margin-top: 12px;
+    font-size: 17px;  
+}
+.p5{
+    font-family:"Chivo",sans-serif;
+    opacity: 0.8;
+    color: #3F4854;
+    font-size: 12px;
+    font-weight:550;
+    text-transform: uppercase;
+    padding-left: 38px;
+    padding-top: 16px;
+}
+.button3{
+    padding: 13px 119.2px;
+    background: none; 
+    border-style: groove;
+    margin-left: 38px;
+    margin-top: 12px;
+    font-size: 17px; 
+}
+.p6{
+    font-family:"Chivo",sans-serif;
+    opacity: 0.8;
+    color: #3F4854;
+    font-size: 12px;
+    font-weight:550;
+    text-transform: uppercase;
+    padding-left: 38px;
+    padding-top: 24px;
+}
+.p7{
+    font-family:"Chivo",sans-serif;
+    color: #10C98F ;
+    font-weight: 900;
+    font-size: 19px;
+    margin-left: 152px;
+    padding-top: -70px;
+    margin-top: -22px;
+}
+.button4{
+    padding: 13px 120px;
+    z-index: 1;
+    cursor: pointer;
+    background-color: #10C98F;
+    font-size: 17px;
+    color: #fff;
+    font-family:"Chivo",sans-serif;
+    font-weight: 700;
+    margin-left: 38px;
+    margin-top: 20px;
+    border: none;
+}
+.button4:hover{
+    transition: 0.6s;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transform: translateY(-3px); 
+    border: 3px solid black;
+}
+.p8{
+    font-family: "Chivo",sans-serif;
+    color: #3F4854;
+    font-size: 16px;
+    font-weight:550;
+    padding-left: 38px;
+    padding-top: 24px;
+    margin-left: 28px;
+    margin-top: -10px;
+}
+.p9{
+    font-family: "Inter",sans-serif;
+    color:#0F4332;
+    margin-top: 550px; 
+    font-size: 40px;
+    margin-left: 480px;
+    font-weight: 600;
+}
+.hr2{
+    width: 7%;
+    color: #10C98F;
+    margin-left: 740px;
+    margin-top: 20px;
+}
+span{
+    margin-left: 50px;
+    
+}
+.p10{
+    font-family:"Chivo",sans-serif;
+    color: #6D6D6D;
+    font-size: 16px;
+    font-weight: 550;
+    margin-left: 575px;
+    margin-top: 20px;
+}
+.img2{
+    width: 80px;
+    height: 70px;
+    margin-left: 140px;
+    margin-top: 35px;
+}
+.img3{
+    margin-top: 200px;
+
+}
+.img4{
+    margin-left: 367px;
+}
+.img5{
+    margin-left: 400px;
+}
+.p11{
+    font-family:"Chivo",sans-serif;
+    margin-left: 150px;
+    color: #0C8760;
+    font-size: 14px;
+    margin-top: 17px;
+}
+.p12{
+    font-family:"Chivo",sans-serif;
+    margin-left: 594px;
+    color: #0C8760;
+    font-size: 14px;
+    margin-top: -15px;
+}
+.p13{
+    font-family:"Chivo",sans-serif;
+    margin-left: 1062px;
+    color: #0C8760;
+    font-size: 14px;
+    margin-top: -17px;
+}
+a{
+    font-family: sans-serif;
+    color: #0F4332;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-top: 30px;
+    line-height: 1.4;
+    display: flex;
+}
+.a1{
+    font-family: sans-serif;
+    color: #0F4332;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 590px;
+    margin-top: -65px;
+    line-height: 1.4;
+    display: flex;
+}
+.a2{
+    font-family: sans-serif;
+    color: #0F4332;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 1062px;
+    margin-top: -75px;
+    line-height: 1.4;
+    display: flex;
+}
+a:hover{
+    cursor: pointer;
+    color: #10C98F;
+    transition: 0.3s;
+}
+.p14{
+    color:#4C5753;
+    font-family: "Chivo",sans-serif;
+    font-size: 20px;
+    font-weight: 540;
+    line-height: 1.5;
+    margin-left: 149px;
+}
+.p15{
+    color:#4C5753;
+    font-family: "Chivo",sans-serif;
+    font-size: 20px;
+    font-weight: 540;
+    line-height: 1.5;
+    padding-left: 590px;
+    margin-top: -90px;
+    display: flex;
+}
+.p16{
+    color:#4C5753;
+    font-family: "Chivo",sans-serif;
+    font-size: 20px;
+    font-weight: 540;
+    line-height: 1.5;
+    padding-left: 1062px;
+    margin-top: -70px; 
+    display: flex;
+   
+}
+main{
+    margin-top: 75px;
+}
+section{
+    background-color: #E4F1ED;
+    height: 720px;
+}
+.img6{
+    padding-left: 65px;
+    padding-top: 90px;
+}
+.d3{
+    width: 250px;
+    height: 230px;
+    background-color: #10C98F;
+    margin-left: 450px;
+    margin-top: -194px;
+    z-index: 1;
+    position: relative;    
+}
+.p17{
+    font-family: "Chivo",sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: #fff;
+    margin-top: -10px;
+    padding-left: 400px;
+    z-index: -1;
+}
+.d4{
+    margin-left: 150px;
+}
+
